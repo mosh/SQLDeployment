@@ -1,0 +1,26 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# RemObjects Fire
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "SQLDeployment.Core", "SQLDeployment.Core\SQLDeployment.Core.elements", "{1C4CA70C-2015-4416-9CED-2C80B66AF344}"
+EndProject
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "SQLDeploymentConsoleApplication", "SQLDeploymentConsoleApplication\SQLDeploymentConsoleApplication.elements", "{40EB09F8-D777-4F74-85A3-4DCD4464CA68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C4CA70C-2015-4416-9CED-2C80B66AF344}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{1C4CA70C-2015-4416-9CED-2C80B66AF344}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{1C4CA70C-2015-4416-9CED-2C80B66AF344}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{1C4CA70C-2015-4416-9CED-2C80B66AF344}.Release|AnyCPU.Build.0 = Release|AnyCPU
+		{40EB09F8-D777-4F74-85A3-4DCD4464CA68}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{40EB09F8-D777-4F74-85A3-4DCD4464CA68}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{40EB09F8-D777-4F74-85A3-4DCD4464CA68}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{40EB09F8-D777-4F74-85A3-4DCD4464CA68}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
